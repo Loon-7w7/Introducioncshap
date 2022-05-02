@@ -1,0 +1,13 @@
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.exe
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.dll
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.dll
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\Restaurant10TableReservationSystem\Restaurant10TableReservationSystem\obj\Debug\netcoreapp3.1\Restaurant10TableReservationSystem.genruntimeconfig.cache

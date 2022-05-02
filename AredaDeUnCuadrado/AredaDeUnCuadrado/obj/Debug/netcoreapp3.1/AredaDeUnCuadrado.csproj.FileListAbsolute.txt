@@ -1,0 +1,13 @@
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\bin\Debug\netcoreapp3.1\AredaDeUnCuadrado.exe
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\bin\Debug\netcoreapp3.1\AredaDeUnCuadrado.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\bin\Debug\netcoreapp3.1\AredaDeUnCuadrado.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\bin\Debug\netcoreapp3.1\AredaDeUnCuadrado.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\bin\Debug\netcoreapp3.1\AredaDeUnCuadrado.dll
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\bin\Debug\netcoreapp3.1\AredaDeUnCuadrado.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.dll
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\AredaDeUnCuadrado\AredaDeUnCuadrado\obj\Debug\netcoreapp3.1\AredaDeUnCuadrado.genruntimeconfig.cache

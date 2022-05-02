@@ -1,0 +1,13 @@
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\bin\Debug\netcoreapp3.1\ListasExample.exe
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\bin\Debug\netcoreapp3.1\ListasExample.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\bin\Debug\netcoreapp3.1\ListasExample.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\bin\Debug\netcoreapp3.1\ListasExample.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\bin\Debug\netcoreapp3.1\ListasExample.dll
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\bin\Debug\netcoreapp3.1\ListasExample.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.dll
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\ListasExample\ListasExample\obj\Debug\netcoreapp3.1\ListasExample.genruntimeconfig.cache

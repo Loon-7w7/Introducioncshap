@@ -1,0 +1,13 @@
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.exe
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.dll
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.dll
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.genruntimeconfig.cache

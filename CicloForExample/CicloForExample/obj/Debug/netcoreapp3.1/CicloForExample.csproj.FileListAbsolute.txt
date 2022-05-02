@@ -1,0 +1,14 @@
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\bin\Debug\netcoreapp3.1\CicloForExample.exe
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\bin\Debug\netcoreapp3.1\CicloForExample.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\bin\Debug\netcoreapp3.1\CicloForExample.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\bin\Debug\netcoreapp3.1\CicloForExample.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\bin\Debug\netcoreapp3.1\CicloForExample.dll
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\bin\Debug\netcoreapp3.1\CicloForExample.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.csproj.AssemblyReference.cache
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.dll
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\CicloForExample\CicloForExample\obj\Debug\netcoreapp3.1\CicloForExample.genruntimeconfig.cache

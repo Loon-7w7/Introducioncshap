@@ -1,0 +1,13 @@
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.genruntimeconfig.cache

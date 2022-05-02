@@ -1,0 +1,13 @@
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\bin\Debug\netcoreapp3.1\MetodoExample.exe
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\bin\Debug\netcoreapp3.1\MetodoExample.deps.json
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\bin\Debug\netcoreapp3.1\MetodoExample.runtimeconfig.json
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\bin\Debug\netcoreapp3.1\MetodoExample.runtimeconfig.dev.json
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\bin\Debug\netcoreapp3.1\MetodoExample.dll
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\bin\Debug\netcoreapp3.1\MetodoExample.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.AssemblyInfoInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.AssemblyInfo.cs
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.csproj.CoreCompileInputs.cache
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.dll
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.pdb
+A:\Programas\programas de c#\Curso de introducion a c#\MetodoExample\MetodoExample\obj\Debug\netcoreapp3.1\MetodoExample.genruntimeconfig.cache
